@@ -1,5 +1,6 @@
 layout: stacked
 style: dark
+future: true
 
 plugins:
   - jekyll-octicons
